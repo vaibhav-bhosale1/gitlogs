@@ -7,7 +7,5 @@ print("rebasemerge")
 
 print("rebasemerge")
 
-
-
 print("merge")
 
