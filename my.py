@@ -5,7 +5,7 @@ print("division")
 print("rebasemerge")
 
 
-print("test commit")
+
 print("merge")
 
 print("merge")
