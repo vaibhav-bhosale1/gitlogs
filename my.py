@@ -8,7 +8,3 @@ print("rebasemerge")
 
 print("merge")
 
-print("merge")
-
-print("hello")
-
